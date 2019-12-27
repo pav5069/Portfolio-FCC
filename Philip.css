@@ -1,0 +1,25 @@
+.main{
+    background-image: linear-gradient(black, rgb(255, 255, 255));
+}
+
+#navbar{
+    color:red;
+}
+
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .github {
+
+  }
